@@ -48,17 +48,17 @@ body, html {
   height: 100%;
 }
 h1, h2, h3, h4, h5, h6 {
-	padding-bottom: 5px;
-	color: #3d5054;
-	line-height: 1em;
-	font-weight: normal;
-	margin: 0 0 10px;
+    padding-bottom: 5px;
+    color: #feff96;
+    line-height: 1em;
+    font-weight: normal;
+    margin: 0 0 10px;
 }
 h1 {
-	font-family: 'Lobster', cursive;
-	text-transform: capitalize;
-	color: #ffd57a;
-	margin-bottom: 65px;
+    font-family: 'Lobster', cursive;
+    text-transform: capitalize;
+    color: #feff96;
+    margin-bottom: 65px;
 }
 h2 {
 	font-family: 'Roboto Slab', serif;
@@ -177,10 +177,10 @@ a:active {color: #416467;}
 	margin-top: 30px;
 }
 .time_circles > div > h4 {
-	color: #fff;
+    color: #feff96;
 }
 .time_circles > div > span {
-	color: #fff;
+    color: #feff96;
 }
 /*----------------------------------------
 # - 3.2 contact section style
@@ -237,12 +237,12 @@ a:active {color: #416467;}
 	padding: 10px 20px;
 }
 .contact-block .btn-sand {
-	background: #417378;	
+    background: #feff96;
 }
-.contact-block .btn-sand:hover {
-    background: #416467;
-    color: #fff;
-}
+    .contact-block .btn-sand:hover {
+        background: #feff96;
+        color: #fff;
+    }
 .sun .input-group-btn:last-child>.btn-sand,
 .sun .input-group .form-control:first-child,
 .contact-block .input-group-btn:last-child>.btn-sand,
@@ -283,14 +283,40 @@ a:active {color: #416467;}
     margin: 0 5px;
     font-size: 42px;
 }
-.social-icon li a{
-    color: #53544f;	
+/*.social-icon li a{
+    color: #feff96;	
 }
-.social-icon li a:hover {
-	color: #2D2D2A;
+    .social-icon li a:hover {
+        color: #feff96;
+    }*/
+
+.social-icon-youtube a {
+    color: #cc181e;
+}
+    .social-icon-youtube li a:hover {
+        color: #cc181e;
+    }
+.social-icon-facebook a {
+    color: #3b5998;
 }
 
+    .social-icon-facebook li a:hover {
+        color: #3b5998;
+    }
+.social-icon-twitter a {
+    color: #1da1f2;
+}
 
+    .social-icon-twitter li a:hover {
+        color: #1da1f2;
+    }
+.social-icon-Instgram a {
+    color: #d42870;
+}
+
+.social-icon-Instgram li a:hover {
+    color: #d42870;
+}
 /*
 ------------------------------------------------------
 # 4.0          layout style
@@ -323,10 +349,10 @@ a:active {color: #416467;}
 	box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(255, 255, 255, .6);
 }
 .sun .btn-sand {
-	color: #232323;
-	background: #ffd57a;
-	border-color: #ffd57a;
-	font-weight: bold;
+    color: #232323;
+    background: #feff96;
+    border-color: #feff96;
+    font-weight: bold;
 }
 .sun .btn-sand:hover {
 	background:#F7B72D;
@@ -345,9 +371,9 @@ a:active {color: #416467;}
 .sun .form-control::-webkit-input-placeholder {
   color: #ececec;
 }
-.sun ul.social-icon li a {
-	color: #fff;
-}
+/*.sun ul.social-icon li a {
+	color: #feff96;
+}*/
 
 
 .top-menu {
