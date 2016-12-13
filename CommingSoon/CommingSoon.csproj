@@ -65,6 +65,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\bg_old.jpg" />
+    <Content Include="index.html" />
     <Content Include="packages.config" />
     <Content Include="assets\css\bootstrap-theme.css.map" />
     <Content Include="assets\css\bootstrap.css.map" />
@@ -100,7 +102,7 @@
     <Content Include="assets\js\jquery.placeholder.js" />
     <Content Include="assets\js\script.js" />
     <Content Include="assets\js\TimeCircles.js" />
-    <Content Include="index.html" />
+    <Content Include="index-solid.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
